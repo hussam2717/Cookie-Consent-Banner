@@ -3,3 +3,11 @@ A simple and responsive cookie consent banner built using HTML, CSS, and JavaScr
 
 Live Demo - 
 
+
+## 🚀 Features
+- Modern and clean UI
+- Accept / Decline cookie options
+- Stores user preference in browser (localStorage)
+- Reset cookie preferences button
+- Fully responsive design
+
