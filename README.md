@@ -11,3 +11,7 @@ Live Demo -
 - Reset cookie preferences button
 - Fully responsive design
 
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
