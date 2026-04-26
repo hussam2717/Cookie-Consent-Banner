@@ -27,3 +27,6 @@ Live Demo -
 - When the user clicks **Decline**, cookies are disabled
 - The banner will not show again unless reset
 - The **Reset Cookie Preferences** button clears stored consent
+
+🤝 Contributing
+Feel free to fork this repo and improve it!
