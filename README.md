@@ -20,3 +20,10 @@ Live Demo -
 │── index.html
 │── style.css
 │── script.js
+
+
+## ⚙️ How It Works
+- When the user clicks **Accept All**, consent is stored in `localStorage`
+- When the user clicks **Decline**, cookies are disabled
+- The banner will not show again unless reset
+- The **Reset Cookie Preferences** button clears stored consent
